@@ -38,7 +38,7 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
             id="contacts"
             bullets={[
               "Baku, Azerbaijan",
-              <a href="tel:+999 999999999">+999 999999999</a>,
+              <a href="tel:+999 999999999">+994 507831631</a>,
               {
                 label: "lazizlij@gmail.com",
                 href: "mailto:lazizlij@gmail.com",
@@ -57,114 +57,59 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
           <Section id="experience" header="Experience">
             <JobSection
               company={{
-                name: "Google",
-                link: "https://google.com",
+                name: "PASHA Bank",
+                link: "https://www.pashabank.az",
               }}
-              location="USA"
-              position="Senior Frontend Engineer"
+              location="Azerbaijan"
+              position="Product Lead"
               dates={{
-                from: "December 2021",
-                to: "December 2022",
+                from: "January 2021",
+                to: "Present",
               }}
               bullets={[
-                <>
-                  <Link
-                    highlight
-                    label="Lorem ipsum"
-                    href="https://www.lipsum.com/"
-                  />{" "}
-                  dolor sit amet consectetur adipisicing elit. Libero accusamus
-                  quo facere nam iste deserunt quas autem atque dignissimos
-                  veniam velit, esse dolores ut praesentium excepturi, magnam
-                  eos maxime totam.
-                </>,
-                [
-                  "Libero accusamus quo facere nam iste deserunt quas autem atque dignissimos veniam velit",
-                  "Esse dolores ut praesentium excepturi",
-                  [
-                    "Libero accusamus quo facere nam iste deserunt quas autem atque dignissimos veniam velit",
-                    "Esse dolores ut praesentium excepturi",
-                  ],
-                ],
-                "Quos inventore deserunt repellendus aliquam expedita quidem odit nobis possimus, assumenda perspiciatis. Beatae nihil dignissimos cum atque ut ratione ad, rerum ipsam quibusdam iusto ea officiis suscipit architecto voluptas corrupti officia.",
+      
+                  "Built from 0 to 14-member innovative/agile product portfolio, launched 4 new startups and discovered 20 startup ideas", 
+                  "Established a playbook for company-wide Innovations (including product discovery, design and delivery, investment and resources, identifying value opportunities, delivering solutions, iterating or dropping on them)",
+                  "Revamped highly-accurate hiring process & built 2023 company-wide hiring playbook, reduced manual time for hiring by 12x, est. $300K annual hiring cost savings. Created PO assessment matrix, that reduced the spent time by 12x and saved $5K annual in cost-of-hiring-talent", 
+                  "Evengelised and launched ChayPay, the first country-wide cashless tipping App supporting a countrywide strategic roadmap in increasing the cashless turnover. As a pioneer with a proven adoption record of increasing 30% tipping in restaurants, ChayPay inspired 3 new startups to compete",
+                  "Became main female actor in startup ecosystem, mentored startups at 3 days hackathon"
+               
               ]}
             />
 
             <JobSection
               company={{
-                name: "Amazon",
-                link: "https://amazon.com",
+                name: "PASHA Bannk",
+                link: "https://www.pashabank.az",
               }}
-              location="USA"
-              position="Senior Frontend Engineer"
+              location="Azerbaijan"
+              position="Senior Product Manager"
               dates={{
-                from: "December 2019",
-                to: "December 2020",
+                from: "November 2020",
+                to: "January 2021",
               }}
               bullets={[
-                "Quos inventore deserunt repellendus aliquam expedita quidem odit nobis possimus, assumenda perspiciatis. Beatae nihil dignissimos cum atque ut ratione ad, rerum ipsam quibusdam iusto ea officiis suscipit architecto voluptas corrupti officia.",
-                "Libero accusamus quo facere nam iste deserunt quas autem atque dignissimos veniam velit",
-                "Esse dolores ut praesentium excepturi",
+                "Built the first B2B startup from zero to GTM with a $1bln turnover in the first year, decreasing by 80% the time needed to run & complete the RFQ (request for quotation) and by 41% the manual time spent",
+                "Designed procurement sourcing flow proven to whiten the procurement process, open doors to new businesses and partnerships, and decrease costs of procurement for the buyers",
+                "Prepared supplier issuing flow, which decreased Time To Yes of finding suppliers by 80%",
+                "Led 16-member 2 cross-functional squads toward creating offerings for legal entities"
               ]}
             />
 
-            <JobSection
-              company={{
-                name: "Meta",
-                link: "https://meta.com",
-              }}
-              location="USA"
-              position="Frontend Engineer"
-              dates={{
-                from: "August 2018",
-                to: "May 2019",
-              }}
-              bullets={[
-                "Quos inventore deserunt repellendus aliquam expedita quidem odit nobis possimus, assumenda perspiciatis. Beatae nihil dignissimos cum atque ut ratione ad, rerum ipsam quibusdam iusto ea officiis suscipit architecto voluptas corrupti officia.",
-                "Libero accusamus quo facere nam iste deserunt quas autem atque dignissimos veniam velit",
-                "Esse dolores ut praesentium excepturi",
-              ]}
-            />
-
-            <JobSection
-              company={{
-                name: "Netflix",
-                link: "https://netflix.com/",
-              }}
-              location="USA"
-              position="Full-stack Engineer"
-              dates={{
-                from: "August 2015",
-                to: "August 2018",
-              }}
-            />
-
-            <JobSection
-              company={{
-                name: "Spotify",
-                link: "https://spotify.com/",
-              }}
-              location="USA"
-              position="Intern"
-              dates={{
-                from: "August 2014",
-                to: "August 2015",
-              }}
-            />
           </Section>
 
           <Section id="education" header="Education">
             <EducationSubsection
               institution={{
-                name: "MIT",
+                name: "Azerbaijan University of Languages",
                 href: "https://www.mit.edu/",
               }}
-              location="Cambridge, USA"
-              degree="Bachelor's degree"
-              faculty="Computer Science and Engineering"
+              location="Baku, Azerbaijan"
+              degree="Master's degree"
+              faculty="International Affairs and Diplomacy"
               dates={{
-                from: "2010",
-                to: "2014",
+                from: "2014",
+                to: "2017",
               }}
             />
           </Section>
@@ -172,30 +117,30 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
           <Section id="skills" header="Skills">
             <BulletedList
               bullets={[
-                "HTML, CSS",
-                "React.js",
-                "JavaScript, Typescript",
-                "Bundlers (Webpack, Parcel, Vite)",
-                "Express.js, Node.js (CLI apps)",
-                "OOP, SOLID, Patterns",
-                "Testing",
-                "CI/CD",
-                "Agile, Scrum",
-                "UX, Animations",
+                "Product Discovery",
+                "Product Strategy",
+                "Roadmapping",
+                "Product-Market fit",
+                "Data modeling",
+                "SQL",
+                "HTML",
+                "CSS",
+                "Communication",
+                "Adaptability",
               ]}
             />
           </Section>
 
           <Section id="langs" header="Languages">
-            <BulletedList bullets={["English", "Spanish", "French"]} />
+            <BulletedList bullets={["English", "Russian", "Turkish"]} />
           </Section>
 
           <Section id="articles" header="Articles">
             <BulletedList
               bullets={[
                 {
-                  label: "Build your resume in React + SSG!",
-                  href: "https://dev.to/jeckhummer/build-your-resume-in-react-ssg-10i4",
+                  label: "My NFT journey",
+                  href: "https://medium.com/@azizlilala/how-to-create-promote-sell-nft-dd474a1364f4",
                 },
               ]}
             />
