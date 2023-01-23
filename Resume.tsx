@@ -68,11 +68,10 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
               }}
               bullets={[
       
-                  "Built from 0 to 14-member innovative/agile product portfolio, launched 4 new startups and discovered 20 startup ideas", 
-                  "Established a playbook for company-wide Innovations (including product discovery, design and delivery, investment and resources, identifying value opportunities, delivering solutions, iterating or dropping on them)",
-                  "Revamped highly-accurate hiring process & built 2023 company-wide hiring playbook, reduced manual time for hiring by 12x, est. $300K annual hiring cost savings. Created PO assessment matrix, that reduced the spent time by 12x and saved $5K annual in cost-of-hiring-talent", 
-                  "Evengelised and launched ChayPay, the first country-wide cashless tipping App supporting a countrywide strategic roadmap in increasing the cashless turnover. As a pioneer with a proven adoption record of increasing 30% tipping in restaurants, ChayPay inspired 3 new startups to compete",
-                  "Became main female actor in startup ecosystem, mentored startups at 3 days hackathon"
+                  "Built an innovative/agile product portfolio, launched 4 new startups and discovered 22 startup ideas with a team of 14",
+                  "Evengelised and launched ChayPay, the first country-wide cashless tipping App supporting a countrywide strategic roadmap in increasing the cashless turnover. As a pioneer with a proven adoption record of increasing 30% tipping in restaurants",
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt maximus lacus",
+                  "Integer condimentum vulputate erat eget elementum. Nulla sit amet est dui"
                
               ]}
             />
@@ -89,27 +88,49 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
                 to: "January 2021",
               }}
               bullets={[
-                "Built the first B2B startup from zero to GTM with a $1bln turnover in the first year, decreasing by 80% the time needed to run & complete the RFQ (request for quotation) and by 41% the manual time spent",
+                "Built the first B2B startup from zero to GTM, decreasing by 80% the time needed to run & complete the RFQ (request for quotation) and by 41% the manual time spent",
                 "Designed procurement sourcing flow proven to whiten the procurement process, open doors to new businesses and partnerships, and decrease costs of procurement for the buyers",
                 "Prepared supplier issuing flow, which decreased Time To Yes of finding suppliers by 80%",
                 "Led 16-member 2 cross-functional squads toward creating offerings for legal entities"
               ]}
             />
 
+            <JobSection
+              company={{
+                name: "PASHA Bannk",
+                link: "https://www.pashabank.az",
+              }}
+              location="Azerbaijan"
+              position="Product Manager"
+              dates={{
+                from: "May 2017",
+                to: "November 2020",
+              }}
+              bullets={[
+                "Designed new UX solutions, that increased “video verification” task completion rate by 28%",
+                "Revamped Digital Platform, increased 5% in availability time, which proved to save X USD in yearly operational costs",
+                "Envisioned ecosystem strategy, comprising 18 value-added services for SMB customers. Launched 2 services with 3rd parties before the strategy’s start year",
+                "Launched from zero SWIFT, Bulk, FX 24/7, Individual FX, Auto-VAT payments, and permission model, and improved NPS from X to Y score",
+                "Launched FX 24/7 and Individual FX features, resulted in $ X net income in 1 year",
+                "Designed automatic user migration flow from old to new Business Online bank, migrated 41K users"
+              ]}
+            />
+            
+            
           </Section>
 
           <Section id="education" header="Education">
             <EducationSubsection
               institution={{
-                name: "Azerbaijan University of Languages",
-                href: "https://www.mit.edu/",
+                name: "Baku State University",
+                href: "http://bsu.edu.az/en/welcome_to_baku_state_university",
               }}
               location="Baku, Azerbaijan"
-              degree="Master's degree"
-              faculty="International Affairs and Diplomacy"
+              degree="Bachelor's degree"
+              faculty="International Affairs and Economics"
               dates={{
-                from: "2014",
-                to: "2017",
+                from: "2009",
+                to: "2013",
               }}
             />
           </Section>
@@ -119,27 +140,25 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
               bullets={[
                 "Product Discovery",
                 "Product Strategy",
+                "Go-To-Market Strategy",
                 "Roadmapping",
-                "Product-Market fit",
                 "Data modeling",
                 "SQL",
                 "HTML",
-                "CSS",
-                "Communication",
-                "Adaptability",
+                "CSS"
               ]}
             />
           </Section>
 
           <Section id="langs" header="Languages">
-            <BulletedList bullets={["English", "Russian", "Turkish"]} />
+            <BulletedList bullets={["English", "Russian", "German"]} />
           </Section>
 
           <Section id="articles" header="Articles">
             <BulletedList
               bullets={[
                 {
-                  label: "My NFT journey",
+                  label: "NFTs — own experience",
                   href: "https://medium.com/@azizlilala/how-to-create-promote-sell-nft-dd474a1364f4",
                 },
               ]}
