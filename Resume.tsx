@@ -78,7 +78,7 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
 
             <JobSection
               company={{
-                name: "PASHA Bannk",
+                name: "PASHA Bank",
                 link: "https://www.pashabank.az",
               }}
               location="Azerbaijan"
@@ -97,7 +97,7 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
 
             <JobSection
               company={{
-                name: "PASHA Bannk",
+                name: "PASHA Bank",
                 link: "https://www.pashabank.az",
               }}
               location="Azerbaijan"
@@ -113,6 +113,40 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
                 "Launched from zero SWIFT, Bulk, FX 24/7, Individual FX, Auto-VAT payments, and permission model, and improved NPS from X to Y score",
                 "Launched FX 24/7 and Individual FX features, resulted in $ X net income in 1 year",
                 "Designed automatic user migration flow from old to new Business Online bank, migrated 41K users"
+              ]}
+            />
+            
+             <JobSection
+              company={{
+                name: "Unibank",
+                link: "https://www.unibank.az",
+              }}
+              location="Azerbaijan"
+              position="Business Development Specialist"
+              dates={{
+                from: "December 2016",
+                to: "May 2017",
+              }}
+              bullets={[
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt maximus lacus",
+                  "Integer condimentum vulputate erat eget elementum. Nulla sit amet est dui"
+              ]}
+            />
+            
+               <JobSection
+              company={{
+                name: "Bank Standard",
+                link: "https://www.ecbs.org/banks/azerbaijan/bank-standard/view-details.html",
+              }}
+              location="Azerbaijan"
+              position="Customer Services Manager"
+              dates={{
+                from: "September 2014",
+                to: "October 2016",
+              }}
+              bullets={[
+                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt maximus lacus",
+                  "Integer condimentum vulputate erat eget elementum. Nulla sit amet est dui"
               ]}
             />
             
