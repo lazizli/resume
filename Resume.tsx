@@ -7,7 +7,7 @@ export const Resume: React.FC = () => {
         <meta charSet="UTF-8" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>John Doe - Frontend Developer</title>
+        <title>Lala Azizli - Product Lead</title>
 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -30,28 +30,26 @@ export const Resume: React.FC = () => {
         <div id="layout">
           <h1 id="name">John Doe</h1>
           <p id="bio">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            Fintech and banking professional with 6+ years of experience in impact-focused product management. 
+Strong domain expertise in payments and platform products. Key strengths: solving difficult business problems, leading  products at scale and creativity. Active in the national-wide startup ecosystem and women in tech, aspiring user-centric product leader with strong technical and design skills. Excited about Web3 and its future potential.
           </p>
 
           <BulletedList
             id="contacts"
             bullets={[
-              "City, Country",
+              "Baku, Azerbaijan",
               <a href="tel:+999 999999999">+999 999999999</a>,
               {
-                label: "john.doe@gmail.com",
-                href: "mailto:john.doe@gmail.com",
+                label: "lazizlij@gmail.com",
+                href: "mailto:lazizlij@gmail.com",
               },
               {
-                label: "GitHub",
-                href: "https://www.github.com/",
+                label: "Portfolio",
+                href: "https://www.azizlilala.com/",
               },
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com",
+                href: "https://www.linkedin.com/in/lazizli",
               },
             ]}
           />
