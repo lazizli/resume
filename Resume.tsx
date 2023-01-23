@@ -28,7 +28,7 @@ export const Resume: React.FC = () => {
 
       <body>
         <div id="layout">
-          <h1 id="name">John Doe</h1>
+          <h1 id="name">Lala Azizli</h1>
           <p id="bio">
             Fintech and banking professional with 6+ years of experience in impact-focused product management. 
 Strong domain expertise in payments and platform products. Key strengths: solving difficult business problems, leading  products at scale and creativity. Active in the national-wide startup ecosystem and women in tech, aspiring user-centric product leader with strong technical and design skills. Excited about Web3 and its future potential.
@@ -38,7 +38,7 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
             id="contacts"
             bullets={[
               "Baku, Azerbaijan",
-              <a href="tel:+999 999999999">+994 507831631</a>,
+              <a href="tel:+999 999999999">+994 5078310000</a>,
               {
                 label: "lazizlij@gmail.com",
                 href: "mailto:lazizlij@gmail.com",
@@ -49,7 +49,7 @@ Strong domain expertise in payments and platform products. Key strengths: solvin
               },
               {
                 label: "LinkedIn",
-                href: "https://www.linkedin.com/in/lazizli",
+                href: "https://www.linkedin.com/in/azizlilala/",
               },
             ]}
           />
