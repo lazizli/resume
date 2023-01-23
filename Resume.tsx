@@ -28,7 +28,7 @@ export const Resume: React.FC = () => {
 
       <body>
         <div id="layout">
-          <h1 id="name">Lala Azizli</h1>
+          <h1 id="name">LALA Azizli</h1>
           <p id="bio">
             Fintech and banking professional with 6+ years of experience in impact-focused product management. 
 Strong domain expertise in payments and platform products. Key strengths: solving difficult business problems, leading  products at scale and creativity. Active in the national-wide startup ecosystem and women in tech, aspiring user-centric product leader with strong technical and design skills. Excited about Web3 and its future potential.
